@@ -1,0 +1,14 @@
+.panel-button {
+    padding: 0;
+    margin: 0; 
+    min-width: 0;
+    max-width: 32px;
+    background: none; 
+}
+
+.system-status-icon {
+    padding: 0;
+    margin: 0;
+    width: 16px;
+    height: 16px;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+  <schemalist>
+    
+    <enum id="org.gnome.shell.extensions.VM-quickstart.enum-sample">
+      <value value="0" nick="TOP"/>
+      <value value="1" nick="BOTTOM"/>
+      <value value="2" nick="RIGHT"/>
+      <value value="3" nick="LEFT"/>
+    </enum>
+    
+    <schema id = "org.gnome.shell.extensions.VM-Quickstart"
+      path="/org/gnome/shell/extension/VM-quickstart/">
+      
+      <key type="i" name="my-integer">
+        <default>100</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>
+      <key type="d" name="my-double">
+        <default>0.25</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>
+      <key type="b" name="my-boolean">
+        <default>false</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>
+      <key type="s" name="my-string">
+        <default>"My String Value"</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>  
+      <key type="as" name="my-array">
+        <default>['first','second']</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>   
+      <key name="my-position">
+        <default>'LEFT'</default>
+        <summary>summary</summary>
+        <description>description</description>
+      </key>
+      
+    </schema>
+    
+    
+    
+    
+  </schemalist>

@@ -1,0 +1,15 @@
+{
+	"description" : "Description of extension",
+	"name" : "VM Quickstart",
+	"shell-version" : [
+		"42",
+		"43",
+		"44"
+	],
+	"url" : "https://github.com/znatii/VM-Quickstart",
+	"uuid" : "VM-Quickstart@znatii-github.com",
+	"version" : 1
+	
+
+}
+
