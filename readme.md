@@ -4,7 +4,7 @@
 # 🚀 VM Quickstart
 
 
-<img src="media/VM-Quickstart-White.svg" width="400">
+<img src="media/VM-Quickstart-White.svg" width="300">
 
 **Instant access to your VirtualBox machines from the GNOME top panel**  
 [![Version](https://img.shields.io/badge/Version-1.1.0-green)]() 
