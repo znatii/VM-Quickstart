@@ -3,7 +3,8 @@
 
 # 🚀 VM Quickstart
 
-![Screenshot](media/VM-Quickstart-White.svg) <!-- Add actual extension screenshot -->
+
+<img src="media/VM-Quickstart-White.svg" width="400">
 
 **Instant access to your VirtualBox machines from the GNOME top panel**  
 [![Version](https://img.shields.io/badge/Version-1.1.0-green)]() 
