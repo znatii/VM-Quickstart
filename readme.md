@@ -26,6 +26,7 @@
 
 ---
 
+
 ## 📥 Installation
 
 ### Recommended Method (GNOME Extensions):
