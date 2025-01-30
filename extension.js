@@ -55,7 +55,7 @@ const Mypopup = GObject.registerClass(
         }
 
         _addRefreshButton() {
-            let refreshItem = new PopupMenu.PopupMenuItem("Actualizar lista");
+            let refreshItem = new PopupMenu.PopupMenuItem("Refresh list");
             let icon = new St.Icon({
                 icon_name: 'view-refresh-symbolic',
                 icon_size: 12
